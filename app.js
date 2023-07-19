@@ -25,6 +25,6 @@
 
     location.appendChild(scriptTag);
   };
-  loadJS("theme/html5up-phantom/assets/js/util.js", document.body);
-  loadJS("theme/html5up-phantom/assets/js/main.js", document.body);
+  // loadJS("theme/html5up-phantom/assets/js/util.js", document.body);
+  // loadJS("theme/html5up-phantom/assets/js/main.js", document.body);
 })();

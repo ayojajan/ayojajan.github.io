@@ -60,7 +60,7 @@ const main = {
               </p>
             </header>
             <div className="image main">
-              <img src="images/pic01.jpg" alt="" />
+              <img src="theme/html5up-massively/images/pic01.jpg" alt="" />
             </div>
             <p>
               Donec eget ex magna. Interdum et malesuada fames ac ante ipsum
@@ -98,15 +98,15 @@ const main = {
             <form method="post" action="#">
               <div className="fields">
                 <div className="field">
-                  <label for="name">Name</label>
+                  <label htmlFor="name">Name</label>
                   <input type="text" name="name" id="name" />
                 </div>
                 <div className="field">
-                  <label for="email">Email</label>
+                  <label htmlFor="email">Email</label>
                   <input type="text" name="email" id="email" />
                 </div>
                 <div className="field">
-                  <label for="message">Message</label>
+                  <label htmlFor="message">Message</label>
                   <textarea name="message" id="message" rows="3"></textarea>
                 </div>
               </div>
